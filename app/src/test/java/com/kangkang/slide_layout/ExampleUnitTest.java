@@ -1,4 +1,4 @@
-package com.kangkang.slide_see_more_layout;
+package com.kangkang.slide_layout;
 
 import org.junit.Test;
 

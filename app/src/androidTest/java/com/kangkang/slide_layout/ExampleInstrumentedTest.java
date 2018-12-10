@@ -1,4 +1,4 @@
-package com.kangkang.slide_see_more_layout;
+package com.kangkang.slide_layout;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
