@@ -6,7 +6,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context="com.kangkang.slide_layout.MainActivity"
     android:orientation="vertical"
-    android:background="#ffffff">
+    android:background="@color/white">
     <android.support.v7.widget.Toolbar
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -15,13 +15,21 @@
         >
 
     </android.support.v7.widget.Toolbar>
-    <Button
+    <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/colorAccent"
-        android:text="点击查看效果"
-        android:textColor="#ffffff"
+        android:text="商品列表"
+        android:textColor="@color/black"
+        android:gravity="center"
         android:textSize="16sp"
-         />
-
+        android:layout_marginTop="10dp"
+        />
+    <GridView
+        android:id="@+id/gridView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:numColumns="3"
+        android:layout_marginTop="10dp"
+        >
+    </GridView>
 </LinearLayout>
