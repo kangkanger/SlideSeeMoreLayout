@@ -16,5 +16,5 @@ Android京东、淘宝商品详情界面、下拉查看更多详情
 感谢：https://github.com/hexianqiao3755/GoodsInfoPage  参考了这位大神的一些代码
 
 
-
-
+------
+如果帮助到您了，请您点一下上面的小星星，感谢！！！
