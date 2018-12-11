@@ -9,10 +9,11 @@
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:gravity="center"
+        android:padding="5dp"
         >
         <ImageView
             android:layout_width="match_parent"
-            android:layout_height="100dp"
+            android:layout_height="150dp"
             android:background="@mipmap/baicai_tu"
             android:scaleType="centerInside"
             />
