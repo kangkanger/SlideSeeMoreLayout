@@ -44,6 +44,7 @@ public class MainActivity extends AppCompatActivity {
         beans.add("第5个商品");
         beans.add("第6个商品");
 
+
         MyAdapter adapter = new MyAdapter();
         gridView.setAdapter(adapter);
     }
